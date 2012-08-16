@@ -1,7 +1,7 @@
 SocialChatter
 =============
 
-Arduino sketch that reads tweets using the Emic 2 TTS Module
+Arduino sketch that reads tweets using the [Emic 2 TTS Module](http://www.grandideastudio.com/portfolio/emic-2-text-to-speech-module/), developed by Grand Idea Studio and Parallax.
 
 Requirements
 ------------

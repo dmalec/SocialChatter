@@ -15,7 +15,8 @@
 // SOFTWARE.
 //
 //      **********************************************************************
-//      Designed for the Grand Idea Studio Emic 2 Text-to-Speech Module
+//      Designed for the Emic 2 Text-to-Speech Module, developed by
+//        Grand Idea Studio and Parallax:
 //      http://www.grandideastudio.com/portfolio/emic-2-text-to-speech-module/
 //
 //      You can pick one up in the Adafruit Store:
